@@ -1,6 +1,8 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="MAVEN_REPOSITORY" value="/Users/hawker/.m2/repository" />
+    <macro name="ARTIFACTORY_PASS" value="4T4NtHoY2vi@3V@WdB/P/t*ko9szDDrp" />
+    <macro name="ARTIFACTORY_USER" value="hawker" />
     <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/hawker/.m2/repository" />
   </component>
 </application>
