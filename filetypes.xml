@@ -10,6 +10,7 @@
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="before_script" type="PLAIN_TEXT" />
       <mapping pattern="before_deploy" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
